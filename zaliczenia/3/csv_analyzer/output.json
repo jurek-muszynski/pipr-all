@@ -1,0 +1,8 @@
+{
+      "sample_csv_dir/sample2.csv": {
+            "rows": 4
+      },
+      "sample_csv_dir/sample.csv": {
+            "rows": 4
+      }
+}

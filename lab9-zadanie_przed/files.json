@@ -1,0 +1,27 @@
+[
+    {
+        "directory": "mydir",
+        "name": "name1",
+        "lines": "1"
+    },
+    {
+        "directory": "mydir",
+        "name": "name2",
+        "lines": "2"
+    },
+    {
+        "directory": "mydir",
+        "name": "name3",
+        "lines": "3"
+    },
+    {
+        "directory": "mydir",
+        "name": "name3",
+        "lines": "3"
+    },
+    {
+        "directory": "mydir",
+        "name": "name4",
+        "lines": "4"
+    }
+]
