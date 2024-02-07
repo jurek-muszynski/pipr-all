@@ -27,6 +27,7 @@ def more_than_avg(num_list):
 
 # Zadanie 4
 
+
 def k_repeated(num_list):
     new_num_list = []
     for num in num_list:

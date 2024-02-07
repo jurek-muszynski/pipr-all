@@ -1,4 +1,6 @@
 # Zadanie 1
+
+
 def character_counter(text):
     characters_frequency = {char: text.count(char) for char in text}
     for char in characters_frequency:
@@ -76,23 +78,6 @@ def parking_spots(entries):
         if spots_taken[spot] > max_scooters:
             max_scooters = spots_taken[spot]
     return max_scooters
-
-
-parking_spots([
-    ("enter", 34),
-    ("enter", 1),
-    ("enter", 1),
-    ("enter", 6),
-    ("exit", 34),
-    ("enter", 4),
-    ("enter", 1),
-    ("enter", 4),
-    ("enter", 1),
-    ("enter", 1),
-    ("enter", 4),
-    ("exit", 1),
-])
-
 
 # Zadanie 8
 

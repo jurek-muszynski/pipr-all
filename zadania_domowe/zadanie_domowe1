@@ -1,11 +1,17 @@
-Zadanie 1.
+# Zadanie 1.
+
+
 git clone --depth 1 https://github.com/torvalds/linux
 cd linux | grep -hr "dragons" | cut -d "*" -f 2 > dragons
 
-Zadanie 2.
+# Zadanie 2.
+
+
 touch my-release ; (date -r my-release +%H:%M' '%A,%d/%m/%y ; cat /etc/os-release) > my-release
 
-Zadanie 3.
+# Zadanie 3.
+
+
 scp ______@lab09011.elka.pw.edu.pl:~lneumann/pipr/lab1_logs.csv .
 cat lab1_logs.csv | grep ://ox.ac.uk | cut -d "," -f 1 | uniq -c
 

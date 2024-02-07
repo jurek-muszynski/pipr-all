@@ -1,4 +1,6 @@
 # Zadanie 1
+
+
 def admin_names_print(names):
     for name in names:
         print(name)

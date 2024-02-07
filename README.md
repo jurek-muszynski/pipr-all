@@ -41,10 +41,7 @@ Lab tutorials in `lab__` directories, homework in `zadania_domowe` & assignments
     │   └── price
     └── 3
         ├── csv_analyzer
-        │   ├── empty_dir
-        │   └── sample_csv_dir
         ├── movie_browser
-        │   └── file_dir
         └── todo_list
 ```
 

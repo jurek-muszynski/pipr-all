@@ -1,4 +1,6 @@
 # Zadanie 1
+
+
 def cube(num):
     return num**3
 
@@ -22,6 +24,8 @@ def symofpoints(p1, p2):
 
 
 # Zadanie 5
+
+
 def bin_len(num):
     return len(bin(num)[2:])
 
